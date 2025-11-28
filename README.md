@@ -80,13 +80,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naminiges&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naminiges&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/31jgkz3hil46oizcg5v6fzsfbz2i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jgkz3hil46oizcg5v6fzsfbz2i&count=2&unique=true" alt="Spotify recently played"  />
   </a>
@@ -112,9 +105,5 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Naminiges/count.svg?"  />
-</div>
 
 ###
