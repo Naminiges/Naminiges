@@ -80,14 +80,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31jgkz3hil46oizcg5v6fzsfbz2i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jgkz3hil46oizcg5v6fzsfbz2i&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/putera-nami-shiddieqy-4076211b6/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
