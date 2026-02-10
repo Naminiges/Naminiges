@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Putera Nami Shiddieqy and I'm an IT Student, from Universitas Sumatera Utara (USU)</h2>
+<h2 align="left">Hi 👋! My name is Putera Nami Shiddieqy</h2>
 
 ###
 
@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
@@ -43,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -59,17 +55,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCjU4noNp2OrSaWkseIrsRGw">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/puteranami_/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/putera-nami-shiddieqy-4076211b6/">
+  <a href="https://www.linkedin.com/in/putera-nami-shiddieqy/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Puteranami1150">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
 
@@ -78,6 +68,13 @@
 <img src="https://raw.githubusercontent.com/Naminiges/Naminiges/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="left">
+<a href="https://github.com/Naminiges">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naminiges&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Naminiges&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/putera-nami-shiddieqy-4076211b6/">
